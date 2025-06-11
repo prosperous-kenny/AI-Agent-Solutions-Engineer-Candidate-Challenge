@@ -1,0 +1,6 @@
+streamlit
+moviepy
+torchaudio
+torch
+speechbrain
+scikit-learn
