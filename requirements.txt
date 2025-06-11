@@ -1,6 +1,6 @@
 streamlit
 moviepy
-torchaudio
-torch
+requests
+tempfile
 speechbrain
 scikit-learn
