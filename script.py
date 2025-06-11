@@ -35,7 +35,7 @@ def main():
         The transcription can then be used for accent analysis.
     """)
 
-    audio_url = st.text_input("Paste your public video/audio URL here(not a youtube url:")
+    audio_url = st.text_input("Paste your public video/audio URL here(not a youtube url):")
 
     if st.button("Submit for Transcription"):
         if not audio_url:
