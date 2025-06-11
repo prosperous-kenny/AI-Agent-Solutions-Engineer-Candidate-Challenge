@@ -1,6 +1,4 @@
 streamlit
-moviepy
 requests
-tempfile
-speechbrain
-scikit-learn
+moviepy
+pydub
